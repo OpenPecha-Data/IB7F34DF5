@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2CZ8069
   title: ལམ་རིམ་སྙིང་བསྡུས།
-  volume: ''
+  volume:
+    dbd5a129d0384753bfd3f44b4df6df5b:
+      image_group_id: I1PD96646
+      title: Volume 1 of lam rim snying bsdus
+      volume_number: 1
+      total_pages: 108
   author: ''
+ebook_metadata:
+  title: ལམ་རིམ་སྙིང་བསྡུས།
+  author: ''
+  sku: P008077
+  cover: cover.jpg
+  layers:
+  - pagination
