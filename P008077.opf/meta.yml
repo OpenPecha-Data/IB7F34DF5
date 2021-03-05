@@ -1,15 +1,16 @@
-id: opecha:P008077
+id: P008077
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2CZ8069
   title: ལམ་རིམ་སྙིང་བསྡུས།
-  volume:
+  author: ''
+  volumes:
     dbd5a129d0384753bfd3f44b4df6df5b:
       image_group_id: I1PD96646
       title: Volume 1 of lam rim snying bsdus
       volume_number: 1
       total_pages: 108
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལམ་རིམ་སྙིང་བསྡུས།
   author: ''
