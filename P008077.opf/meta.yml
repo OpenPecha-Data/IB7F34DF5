@@ -5,11 +5,12 @@ source_metadata:
   title: ལམ་རིམ་སྙིང་བསྡུས།
   author: ''
   volumes:
-    14f77824b6404e809391388c56b3338d:
+    dbd5a129d0384753bfd3f44b4df6df5b:
       image_group_id: I1PD96646
-      title: ''
+      title: Volume 1 of lam rim snying bsdus
       volume_number: 1
       total_pages: 108
+      base_file: v001.txt
 ebook_metadata:
   title: ལམ་རིམ་སྙིང་བསྡུས།
   author: ''
